@@ -2,6 +2,8 @@
 
 - [VIDEO TUTORIAL MOVIE APP](https://youtu.be/f8Z9JyB2EIE)
 
+- [Create route groups](https://youtu.be/f8Z9JyB2EIE?si=MPqBF9RRNzb-fLYM&t=2508)
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
